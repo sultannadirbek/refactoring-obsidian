@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "af1cf03aa039d468",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a75dbd567b34712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d516f0f2f208edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Refactoring/Задачи/Задачи по Usecase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b0eac9a4a9f6753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Refactoring/Аналитика/Список Usecase-ов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45d861609d2034e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "92e8f48229e3105c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1642eae8aa947487",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17003062eb6fbe93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efe023f0c4d839b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57d9691501883e25",
+    "type": "split",
+    "children": [
+      {
+        "id": "96c5ce9a7ab6c9ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a74d0c922b38dac3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Refactoring/Задачи/Задачи по Usecase.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a30b15fd88d6a0e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Refactoring/Задачи/Задачи по Usecase.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c62394fe44c98e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ce2c21a5ded74ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Refactoring/Задачи/Задачи по Usecase.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7d516f0f2f208edc",
+  "lastOpenFiles": [
+    "Refactoring/Аналитика/Список Usecase-ов.md",
+    "Refactoring/Задачи/Задачи по Usecase.md",
+    "Refactoring/Аналитика/Usecases/Сервисные центры.md",
+    "Refactoring/Аналитика/Usecases/Главная страница.md",
+    "Refactoring/Аналитика/Usecases/Каталог.md",
+    "Refactoring/Аналитика/Usecases/Баннеры.md",
+    "Refactoring/Аналитика/Usecases/Акции.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Поиск по каталогу.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Акции каталога (майндбокс).md",
+    "Refactoring/Аналитика/Usecases/Каталог/Вывод каталога.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Детали товара.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Добавление товара в Избранное.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Избранное.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Кредитный калькулятор.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Модели (те же товары с другими характеристиками).md",
+    "Refactoring/Аналитика/Usecases/Каталог/Общая информация о товарах.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Описание товара.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Отзывы.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Сканер штрихкода.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Товары каталога.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Сравнение товаров.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Фид.md",
+    "Refactoring/Аналитика/Usecases/Каталог/Фильтры (каталог и поиск).md",
+    "Refactoring/Аналитика/Usecases/Каталог/Хлебные крошки.md",
+    "Refactoring/Аналитика/Usecases/Каталог/FAQ категории.md",
+    "Refactoring/Аналитика/Usecases/Каталог/HEX-цвета.md",
+    "Refactoring/Задачи",
+    "Refactoring/Аналитика/Без названия",
+    "Refactoring/Аналитика/Usecases/Новости",
+    "Refactoring/Аналитика/Usecases/Сервис центр",
+    "Refactoring/Аналитика/Usecases/Шапка",
+    "Refactoring/Аналитика/Usecases/Главная страница",
+    "Refactoring/Аналитика/Usecases/Каталог",
+    "Refactoring/Аналитика/Usecases/Акции",
+    "Refactoring/Аналитика/Usecases/FAQ",
+    "Refactoring/Аналитика/Usecases/Рекомендации"
+  ]
+}
